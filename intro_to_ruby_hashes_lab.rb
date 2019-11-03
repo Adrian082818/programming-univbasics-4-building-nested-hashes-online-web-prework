@@ -41,7 +41,7 @@ def monopoly_with_third_tier
 	      :reading_railroad =>{}
 	      :reading_railroad =>{}
 	      :reading_railroad =>{}
-	       
+	    }   
   	 }
   	 }
   	 end
