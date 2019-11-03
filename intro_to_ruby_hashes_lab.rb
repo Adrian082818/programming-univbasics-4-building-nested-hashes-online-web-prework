@@ -38,9 +38,10 @@ def monopoly_with_third_tier
 	    }, 
 	    names: {
 	      :reading_railroad =>{}
-	      
-	   
-	    },
+	      :key_2 =>"",
+	      :key_3 =>"",
+	      :key_4 =>"",
+},
   	 }
   	 }
   	 end
